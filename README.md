@@ -4,12 +4,14 @@
   For Front-End
   git clone https://github.com/rutuja3562/TericSoft-Assignment
   
-  ## Install npm packages
+  ### Install npm packages
  
   npm install
   ### Run the server  <br/>
   npm start  <br/>
- ### Install json server packages  <br/>
+ ### Install JSON Server packages  <br/>
+ npm i json-server
+ ### Start JSON Server
  json-server --watch db.json --port 8080  <br/>
 ### View in Browser  <br/>
 http://localhost:3000  <br/>
