@@ -15,3 +15,4 @@
 http://localhost:3000  <br/>
 Or
   <br/>
+https://teric-soft-assignment-rutuja3562.vercel.app
